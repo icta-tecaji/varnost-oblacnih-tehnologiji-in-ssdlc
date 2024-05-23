@@ -16,3 +16,4 @@ detect-secrets is an aptly named module for detecting secrets within a code base
 
 - https://github.com/Yelp/detect-secrets
 - https://github.com/gitleaks/gitleaks
+- https://github.com/trufflesecurity/truffleHog
